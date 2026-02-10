@@ -2,6 +2,9 @@
 
 SwiftUI iOS app that shows a learning path dashboard with cards, badges, and progress. Uses NavigationStack, custom components, and a share sheet for achievements.
 
+## Photos and Videos
+Photos and Videos of the application have been uploaded [here](https://drive.google.com/drive/folders/1f7BGhQSbdF-vUdOAcxJJsuhLgSinVdH0?usp=drive_link).
+
 ## Requirements
 - Xcode 15 or newer
 - iOS 17 SDK (NavigationStack + SwiftUI)
